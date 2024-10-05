@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harrison Karp Personal Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Harrison Karp Personal Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 14:37:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>http://localhost:1313/pages/links/</link>
+      <link>https://example.org/pages/links/</link>
       <pubDate>Fri, 04 Oct 2024 14:37:25 -0400</pubDate>
-      <guid>http://localhost:1313/pages/links/</guid>
-      <description>&lt;p&gt;This is my current resume: &lt;a href=&#34;http://localhost:1313/hk-resume.docx&#34;&gt;Resume&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is an R package I was an author of: &lt;a href=&#34;https://cran.r-project.org/web/packages/messy.cats/index.html&#34;&gt;Messy Cats Package&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my undergraduate thesis: &lt;a href=&#34;http://localhost:1313/thesis.docx&#34;&gt;Thesis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the presentation I used for my undergraduate thesis defense: &lt;a href=&#34;http://localhost:1313/thesis_pres.pptx&#34;&gt;Thesis Presentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is my GitHub Account: &lt;a href=&#34;https://github.com/hkarp1&#34;&gt;GitHub Account&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://example.org/pages/links/</guid>
+      <description>&lt;p&gt;This is my current resume: &lt;a href=&#34;https://example.org/hk-resume.docx&#34;&gt;Resume&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is an R package I was an author of: &lt;a href=&#34;https://cran.r-project.org/web/packages/messy.cats/index.html&#34;&gt;Messy Cats Package&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my undergraduate thesis: &lt;a href=&#34;https://example.org/thesis.docx&#34;&gt;Thesis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the presentation I used for my undergraduate thesis defense: &lt;a href=&#34;https://example.org/thesis_pres.pptx&#34;&gt;Thesis Presentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is my GitHub Account: &lt;a href=&#34;https://github.com/hkarp1&#34;&gt;GitHub Account&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/pages/about_me/</link>
+      <link>https://example.org/pages/about_me/</link>
       <pubDate>Thu, 03 Oct 2024 15:53:23 -0400</pubDate>
-      <guid>http://localhost:1313/pages/about_me/</guid>
+      <guid>https://example.org/pages/about_me/</guid>
       <description>&lt;p&gt;I am currently a data engineer at the Federal Reserve Board in the Flow of Funds section of the Research and Statistics division. Prior to my almost 2 years of experience as a data engineer, I was a research assistant at the Board. Before coming to the Board, I graduated from Wesleyan University with a major in Economics, and a minor in Data Science, and high honors on my Thesis. I am currently in the process of obtaining my masters in Data Science from Northwestern University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/pages/contact/</link>
+      <link>https://example.org/pages/contact/</link>
       <pubDate>Thu, 03 Oct 2024 15:53:23 -0400</pubDate>
-      <guid>http://localhost:1313/pages/contact/</guid>
+      <guid>https://example.org/pages/contact/</guid>
       <description>&lt;p&gt;My school email is &lt;strong&gt;&lt;a href=&#34;mailto:harrisonkarp2025@u.northwestern.edu&#34;&gt;harrisonkarp2025@u.northwestern.edu&lt;/a&gt;&lt;/strong&gt; and my work email is&#xA;&lt;strong&gt;&lt;a href=&#34;mailto:Harrison.Karp@frb.gov&#34;&gt;Harrison.Karp@frb.gov&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
